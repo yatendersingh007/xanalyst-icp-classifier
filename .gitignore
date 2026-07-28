@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.pyc
+
+.env
+.venv/
+__pycache__/
+*.pyc
+*.log
+*.csv
+*.xlsx
+*.jsonl
+input/
+output/
+.claude/
